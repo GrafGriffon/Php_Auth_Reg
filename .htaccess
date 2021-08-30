@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)url.html$ http://vash-sait.ru/new-url.html [R=301,L]
